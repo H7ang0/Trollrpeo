@@ -1,20 +1,20 @@
 {
-  "repository_name": "H7ang0插件源",
-  "repository_icon": "https://h7ang0.github.io/Trollrpeo/repo-icon.png",
+  "repository_name": "اسم مستودعك",
+  "repository_icon": "https://yoursite.com/repo-icon.png",
   "packages": [
     {
-      "name": "我的第一个插件",
+      "name": "اسم الحزمه",
       "version": "v1.0.0",
-      "description": "这是一个简单的 TrollStore 插件，主要用于演示插件源结构和功能。",
-      "app_url": "https://apps.apple.com/app/id123456789", 
-      "icon_url": "https://h7ang0.github.io/Trollrpeo/icons/package-icon.png",
-      "dylib": "https://h7ang0.github.io/Trollrpeo/downloads/package.dylib",
-      "section": "系统增强",
-      "size": "123KB",
-      "author": "H7ang0",
+      "description": "وصف مفصل للحزمه وميزاتها",
+      "app_url": "رابط التطبيق على المتجر اذا كانت الحزمه مخصصه لتطبيق معين",
+      "icon_url": "https://yoursite.com/icons/package-icon.png",
+      "dylib": "https://yoursite.com/downloads/package.dylib",
+      "section": "قسم الحزمه",
+      "size": "حجم الملف",
+      "author": "اسم المطور",
       "screenshots": [
-        "https://h7ang0.github.io/Trollrpeo/screenshots/screenshot1.png",
-        "https://h7ang0.github.io/Trollrpeo/screenshots/screenshot2.png"
+        "https://yoursite.com/screenshots/screenshot1.png",
+        "https://yoursite.com/screenshots/screenshot2.png"
       ]
     }
   ]
